@@ -1,0 +1,97 @@
+/* CSS Document */
+.container{
+	position:absolute;
+	height:600px;
+	width:800px;
+	left:50%;
+	margin-left:-400px;
+	margin-top:30px;
+	z-index: 2;
+	background-color:#00CC00;
+}
+
+.profoto{
+	position:absolute;
+	width:auto;
+	left:47%;
+	margin-left:-200px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	background-color:#FFFFFF;
+	border:1px;
+	border-style:solid;
+	border-color:#999999;
+	top: 55px;
+	z-index: 2;
+}
+
+
+
+
+
+.texto{
+	text-align:left;
+	font-family:Trebuchet MS,Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:12px;
+	width:290px;
+	margin-top:15px;
+	margin-bottom:20px;
+	z-index: 1;
+}
+
+
+
+
+.boton{
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-align:center;
+	padding-top:5px;
+	
+	
+}
+
+.contact{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-align:center;
+
+
+}
+
+.linkcontact{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-decoration:none;
+}
+.linkcontact a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-decoration:none;
+
+}
+.linkcontact a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#FF3399;
+	text-decoration:none;
+
+}
+.linkcontact a:visited{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#FF3399;
+	text-decoration:none;
+
+}
+.barre{
+text-decoration:line-through;
+}

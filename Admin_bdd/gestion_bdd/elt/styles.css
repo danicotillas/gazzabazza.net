@@ -1,0 +1,13 @@
+body,td,th,select,input,textarea { font:normal 8pt Verdana }
+b { font:bold 8pt Verdana }
+A { font:bold 8pt Verdana; text-decoration:none }
+.a { font:normal 8pt Verdana }
+:hover { color:#da9f1d;background:#EEEEFF }
+i { color:gray }
+.i2 { color:#000088 }
+.titre { text-align:center;font:normal 14pt Verdana;color:#000088 }
+.bgtable { background:#F0F0F0 }
+.bgline { background:#DDDDEE }
+.cadre { background:#000088 }
+.ligne { color:#000088 }
+.f7 { font:normal 7pt Helvetica }

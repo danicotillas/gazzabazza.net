@@ -1,0 +1,423 @@
+AWSTATS DATA FILE 6.7 (build 1.892)
+# If you remove this file, all statistics for date 201312 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2535                
+POS_VISITOR 8219                
+POS_DAY 10777               
+POS_DOMAIN 3328                
+POS_LOGIN 3559                
+POS_ROBOT 3714                
+POS_WORMS 4399                
+POS_EMAILSENDER 4530                
+POS_EMAILRECEIVER 4673                
+POS_SESSION 11525               
+POS_SIDER 11693               
+POS_FILETYPES 4808                
+POS_OS 4961                
+POS_BROWSER 5083                
+POS_SCREENSIZE 5492                
+POS_UNKNOWNREFERER 5566                
+POS_UNKNOWNREFERERBROWSER 6318                
+POS_ORIGIN 6474                
+POS_SEREFERRALS 6614                
+POS_PAGEREFS 6790                
+POS_SEARCHWORDS 7112                
+POS_KEYWORDS 7281                
+POS_MISC 2199                
+POS_ERRORS 7357                
+POS_CLUSTER 3415                
+POS_SIDER_404 7459                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140101000636 4 274 46238723043
+FirstTime 20131201011432
+LastTime 20131231183021
+LastUpdate 20140101020343 4 0 0 2 1
+TotalVisits 218                 
+TotalUnique 63                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 65                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 37786 23 26 101728
+1 23 23 68446 33 34 147309
+2 7 9 36115 38 42 2023934
+3 8 9 35334 73 75 4056160
+4 8 8 24978 35 37 2067046
+5 9 10 36791 34 40 2184180
+6 22 22 67604 24 27 3868573
+7 14 14 52918 34 42 5900107
+8 22 28 152737 38 39 158410
+9 4 4 14843 47 55 262932
+10 12 14 63242 28 37 2066473
+11 14 14 49780 30 31 2223029
+12 23 23 67869 46 48 204998
+13 9 10 1909330 19 20 3847031
+14 14 14 31444 66 69 7747822
+15 12 12 1916138 16 17 78748
+16 5 5 15116 18 22 411260
+17 11 11 37197 29 34 3852919
+18 14 14 40340 29 31 2032786
+19 22 23 9064812 29 35 2057967
+20 9 9 20637 22 26 177159
+21 20 23 197041 33 38 222479
+22 8 11 72941 17 21 201230
+23 13 15 83527 15 18 76733
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 316 338 14096966
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+googlebot 226 3285430 20131231231811 0
+\wbot[\/\-] 103 39759497 20131230090640 0
+yandex 99 899962 20131231190902 0
+baiduspider 30 333165 20131230181423 0
+robot 25 663749 20131228163333 0
+spider 23 124554 20131230234730 0
+mj12bot 14 85969 20131230093546 0
+crawl 13 84505 20131219121024 0
+seznambot 6 39827 20131226192614 0
+exabot 3 12230 20131222003730 0
+python 2 9619 20131205022805 0
+surveybot 2 9639 20131217084124 0
+archive\.org_bot 3 5897 20131223102929 0
+java 1 4857 20131207065234 0
+netcraft 1 4804 20131210155055 0
+nutch 1 4796 20131220032755 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 13 34367 0 0
+asp 307 1088832 0 0
+html 3 11180 0 0
+ico 3 3069 0 0
+jpg 6 213392 0 0
+pdf 6 12746126 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+winxp 86
+winlong 3
+winnt 44
+linuxubuntu 1
+linux 29
+macosx 8
+win2003 10
+Unknown 157
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 29
+msie6.0 4
+firefox5.0 2
+firefox20.0 4
+firefox3.6 2
+firefox3.0 1
+opera 3
+firefox4.0 1
+msie4.01 1
+firefox7.0.1 3
+firefox24.0 1
+firefox3.6.23 1
+ecatch 1
+msie8.0 9
+firefox1.0 1
+firefox25.0 11
+mozilla 29
+msie7.0 13
+firefox22.0 1
+firefox14.0.1 6
+firefox5.0.1 1
+firefox6.0 2
+firefox3.6.12 1
+firefox3.6.3 66
+wget 11
+msie 126
+msie9.0 16
+Unknown 8
+safari 12
+netscape 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Mozilla 20131226232733
+Wotbox/2.01_(_http://www.wotbox.com/bot/) 20131225100949
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20131231141034
+- 20131203171656
+Mozilla/5.0_(compatible;_Ezooms/1.0;_ezooms.bot@gmail.com) 20131205153543
+SEOstats_2.1.0_https://github.com/eyecatchup/SEOstats 20131211120950
+Mozilla/5.0_(compatible;_Ezooms/1.0;_help@moz.com) 20131229073336
+Mozilla/4.0_(compatible) 20131204213608
+Mozilla/99.99___(compatible;___MSIE___99.99;___Windows___XP___99.99) 20131231183021
+Mozilla/5.0_(compatible;_SearchmetricsBot;_http://www.searchmetrics.com/en/searchmetrics-bot/) 20131203083030
+Mozilla/3.0_(compatible;_Indy_Library) 20131219063130
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Wotbox/2.01_(_http://www.wotbox.com/bot/) 20131225100949
+- 20131203171656
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 165 172
+From1 0 0
+From2 2 5
+From3 14 14
+From4 135 147
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 1 1
+yandex 1 1
+sogou 0 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://sursiendo.com/blog 7 7
+http://ddlmega.net 4 4
+http://www.binary-deluxe.com 1 1
+http://webnotice.in 1 1
+http://f0081c49.linkbucks.com/url/http://www.gazzabazza.net 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+gazzabazza.net 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+gazzabazza.net 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 83907
+404 310 558606
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 17
+/drupal 1 http://gazzabazza.net/drupal
+/robots.txt 268 -
+/user 1 gazzabazza.net
+/gbstats/track.asp 8 -
+/apple-touch-icon.png 1 -
+/fckeditor/_whatsnew.html 1 -
+/ajax.list.search.php 10 -
+/wordpress/wp-admin/ 2 -
+/wp 1 http://gazzabazza.net/wp
+/wp-admin/ 2 -
+/blog/ 2 -
+/blog/wp-admin/ 2 -
+/joomla 1 http://gazzabazza.net/joomla
+/wordpress 1 http://gazzabazza.net/wordpress
+/blog 1 http://gazzabazza.net/blog
+/wp-login.php 2 -
+/rejected-by-urlscan 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 65
+72.9.154.50 192 192 491715 20131231183021
+72.249.55.2 7 7 1764 20131228210009
+208.115.111.68 6 6 46526 20131229073336
+69.58.178.57 6 6 39910 20131210211513
+198.199.76.198 6 6 28848 20131231111244
+81.144.138.34 6 6 39965 20131225100949
+38.100.21.66 6 9 45835 20131216082417
+208.115.113.84 5 5 28348 20131218220041
+208.43.255.31 5 5 28213 20131216172814
+209.85.238.64 4 4 10252 20131231141034
+200.87.86.201 1 4 42345 20131205083852
+184.22.40.189 2 2 11925 20131204213608
+72.11.138.149 1 1 4883 20131218042119
+74.52.245.146 1 1 4814 20131213012949
+198.186.192.44 1 1 4897 20131201221047
+193.104.110.55 1 1 10558 20131208021403
+168.62.58.81 1 1 4765 20131216230425
+95.211.168.97 1 1 4802 20131213082319
+113.65.77.214 1 4 50437 20131210225603
+192.99.9.228 1 1 4846 20131229085625
+194.132.200.135 1 1 252 20131211120950
+109.206.176.226 1 1 7048 20131219074338
+184.22.42.196 1 1 4862 20131204213117
+77.72.147.208 1 1 4827 20131226060802
+66.249.85.182 2 3 1877109 20131216133029
+54.221.179.128 2 3 7922 20131218052036
+200.87.136.212 4 4 9003562 20131214193638
+209.85.238.116 1 1 4774 20131216062858
+133.242.208.90 1 1 9197 20131226232733
+91.215.188.103 1 1 4810 20131214114756
+193.43.252.252 4 4 19427 20131215153725
+93.159.230.87 2 4 15284 20131231033302
+95.25.120.205 1 3 10606 20131220104531
+93.159.230.28 1 2 7700 20131203025042
+162.243.105.81 2 2 9754 20131227094139
+46.229.167.149 1 1 4834 20131209172228
+83.206.51.34 1 1 4821 20131223065103
+198.199.79.217 1 1 4832 20131206113854
+176.9.192.110 1 1 4858 20131224123006
+220.181.89.218 0 3 104303 
+54.196.8.112 3 4 22998 20131222134927
+65.111.164.176 1 1 4788 20131203171656
+192.241.132.143 1 1 4820 20131205071906
+199.30.25.62 1 1 1871282 20131213154902
+199.30.25.218 0 2 36597 
+149.210.153.241 1 1 4822 20131213112804
+46.105.59.74 1 1 252 20131210113924
+54.202.127.132 1 1 4763 20131211090013
+193.0.146.161 1 1 4923 20131209164828
+54.194.149.53 1 1 4812 20131217170227
+31.41.95.82 1 1 4988 20131219063130
+46.4.48.68 2 2 9773 20131217014409
+83.143.140.227 2 2 9662 20131228031034
+149.210.137.42 1 1 4797 20131201150535
+31.148.246.37 1 1 8436 20131219074339
+198.100.150.90 1 1 4806 20131211221747
+162.243.146.141 1 1 4799 20131228124850
+64.120.214.178 1 1 4997 20131215190838
+144.76.42.76 2 2 9664 20131210014423
+178.95.38.76 1 1 4831 20131209122425
+192.99.9.164 2 2 9622 20131220130107
+54.234.121.166 1 1 4880 20131216005112
+208.43.255.28 4 4 29547 20131203082954
+198.199.76.203 1 1 4816 20131223043515
+46.4.53.21 1 1 4861 20131203083030
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20131201 12 12 39038 8
+20131202 8 8 20557 4
+20131203 19 22 129301 11
+20131204 10 10 32469 6
+20131205 12 15 81016 8
+20131206 9 9 25269 5
+20131207 9 9 23029 4
+20131208 8 8 26134 6
+20131209 7 7 24937 7
+20131210 22 25 135397 10
+20131211 11 11 30302 7
+20131212 9 9 25227 6
+20131213 16 16 1925512 12
+20131214 16 16 9038826 8
+20131215 15 16 55509 8
+20131216 16 19 1946798 11
+20131217 9 10 37204 9
+20131218 9 10 34691 8
+20131219 9 9 41697 8
+20131220 6 8 25663 6
+20131221 5 5 10433 5
+20131222 8 9 35743 5
+20131223 10 10 35318 8
+20131224 6 6 15282 6
+20131225 11 11 54974 6
+20131226 6 8 82852 6
+20131227 5 5 15086 5
+20131228 9 9 27348 8
+20131229 7 8 70328 6
+20131230 5 5 12945 4
+20131231 12 13 38081 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 216
+2mn-5mn 1
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ciber.asp 197 504502 128 131
+/index.asp 80 341739 71 68
+/contact.asp 9 75876 4 3
+/about.asp 9 63403 3 5
+/join_images.asp 7 64398 4 3
+/join_text.asp 5 38914 2 2
+/comunicacion_codigo_abierto_gestion_cultural.pdf 2 3742564 2 2
+/artivismo-y-pospolitica.pdf 2 317306 1 0
+/google88026a26e3cda8c5.html 2 622 2 2
+/apologo-de-la-bicicleta.pdf 2 8686256 0 1
+/webalizer/default.html 1 10558 1 1
+END_SIDER

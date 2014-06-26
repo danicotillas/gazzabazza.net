@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTexto" value="name:id;datatype:Long,name:ideas;datatype:VarChar" />
+	<infoitem key="UD_rsTexto_var" value="name:Expr1000;datatype:Long" />
+	<infoitem key="UD_rsImages_var" value="name:id;datatype:Long,name:imagen;datatype:VarChar" />
+</info>

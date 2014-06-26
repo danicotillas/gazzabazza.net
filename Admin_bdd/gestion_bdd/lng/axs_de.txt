@@ -1,0 +1,50 @@
+Web Management<br>für MSAccess Datenbanken
+DATENBANK
+Komprimieren
+Umbenennen
+Kopieren
+TABELLE
+Feld
+Felder
+Typ
+Name
+Grösse
+SQL
+Tabelle ausgeben
+Tabelle löschen
+Datensatz
+Datensätze
+Integer
+Long Integer
+Simple Real
+Double Real
+Währung
+Ja/Nein
+Oktal
+
+Binär
+Dezimal
+Datum/Zeit
+Text
+Memo
+OLE Objekt
+Entfernen
+Das Feld ist leer !
+Datensätze
+Neu
+OK
+
+AutoInkrementieren
+Editieren
+Datensatz modifizieren
+Datensatz anlegen
+Modifizieren
+Speichern
+Exportieren
+Neues Verzeichnis
+Invalid name !
+Page
+Search
+in
+To search in 'Text' or 'Memo' fields :\n\nSpace >> OR\n+ (plus)  >> AND\n - (minus)   >> AND NOT\n\nexcept if the first char is :\n\n=   >> contains exactly the string\n>   >> contains the string
+Delete this record

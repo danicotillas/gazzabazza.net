@@ -1,0 +1,164 @@
+/* CSS Document */
+
+body {
+	/*background-image:   url("../images_randomness/linea.jpg");*/
+		background-color:#dcdcdc;
+
+}
+
+.container{
+	position:absolute;
+	height:auto;
+	left:50%;
+	z-index: 2;
+}
+
+.recontainer{
+	position:relative;
+	height:auto;
+	left:-50%;
+
+	width:auto;
+	margin-top:25px;
+	margin-bottom:15px;
+	z-index: 2;
+}
+
+
+
+.profoto{
+	position:relative;
+	left:-50%;
+	width:auto;
+	background-color:#FFFFFF;
+	border:1px;
+	border-style:solid;
+	border-color:#999999;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	text-align:center;
+}
+
+.cadre{
+
+height:auto;
+
+}
+
+
+
+.texto{
+	
+	font-family:Trebuchet MS,Arial, Helvetica, sans-serif;
+	/*
+	"john-doe-1","john-doe-2";
+	"tangerine-1","tangerine-2";
+	/*"edding-780-1","edding-780-2";
+	*/
+	color:#000000;
+	font-size:13px;
+	margin-top:10px;
+	margin-bottom:28px;
+	text-align:left;
+	vertical-align:top;
+}
+
+.texto2{
+	
+	font-family: Trebuchet MS,Arial, Helvetica, sans-serif*/;
+	color:#000000;
+	font-size:12px;
+	height:auto;
+	margin-top:10px;
+	margin-bottom:28px;
+	width:auto;
+}
+
+
+
+
+.ostiaputa{
+	position:relative;
+	text-align:center;
+	height:auto;
+
+
+}
+
+
+.boton{
+	text-align:center;
+	margin-top:15px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	padding-top:-5px;
+	
+	
+}
+
+.contact{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-align:center;
+
+
+}
+
+.linkcontact{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-decoration:none;
+	text-align:center;
+}
+.linkcontact a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#736e5f;
+	text-decoration:none;
+	text-align:center;
+	font-weight:bold;
+
+}
+.linkcontact a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#FF3399;
+	text-decoration:none;
+	text-align:center;
+	font-weight:bold;
+}
+
+
+.linkcontact2{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#FF3399;
+	text-decoration:none;
+	text-align:center;
+}
+.linkcontact2 a{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#FF3399;
+	text-decoration:none;
+	text-align:center;
+	font-weight:bold;
+
+}
+.linkcontact2 a:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#FF3399;
+	text-decoration:underline;
+	text-align:center;
+	font-weight:bold;
+}
+
+.barre{
+text-decoration:line-through;
+}
